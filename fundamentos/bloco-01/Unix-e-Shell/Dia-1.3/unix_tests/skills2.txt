@@ -1,0 +1,8 @@
+Java
+Ruby
+Python
+Azul
+Vermelho
+Internet
+Unix
+Bash
