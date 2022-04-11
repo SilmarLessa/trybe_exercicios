@@ -1,0 +1,22 @@
+h1{
+    font-size: 65px;
+    color: orange;
+}ul .lista{
+    background-color: blue;
+    width: 80px;
+}
+.paragrafo, .lista{
+background-color: aquamarine;
+}
+.lista .amarelo{
+    background-color: yellow ;
+    width: 90px;
+}
+.lista .vermelho{
+    background-color:red;
+    width: 90px
+}
+.lista .marrom{
+    background-color: brown;
+    width: 90px
+}
